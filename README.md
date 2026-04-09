@@ -9,9 +9,10 @@ The goal is to transform messy data into a structured dataset and uncover patter
 ⸻
 
 Team
-	•	Ludmilla Grefenstein
-	•	Jorge Barrios Hurtado
-	•	Edson Antonio
+	• Edson Antonio
+    • Jorge Barrios Hurtado
+    • Ludmilla Grefenstein
+	
 
 ⸻
 
