@@ -13,15 +13,27 @@ The dataset contained:
 - messy text data
 
 ## Data Cleaning
-We cleaned and transformed several columns:
-- Activity → grouped into categories
-- Type → standardized (provoked, unprovoked, other)
-- Species → simplified categories
-- Age → numeric where possible
-- Injury → categorized (injured, fatal, no injury, unknown)
+- **Activity_final**  
+Grouped free-text activities into categories (e.g. swimming, surfing, fishing, diving).
+
+- **Type_final**  
+Standardized into: unprovoked, provoked, other.
+
+- **Species_final**  
+Simplified inconsistent species names into broader groups (e.g. white shark, tiger shark, other, unknown).
+
+- **Age_final**  
+Converted to numeric values where possible; invalid entries set to missing.
+
+- **Injury_final**  
+Categorized into: injured, fatal, no injury, unknown, other.
+
+- **Additional columns**  
+(final_date, country, state, location, sex) were cleaned and standardized for geographic and demographic context.
 
 ## Project Structure
 - cleaning_ludmilla.ipynb
+- cleaning_jorge.ipynb
 - final_dataset_build.ipynb
 - eda.ipynb
 - final_dataset.csv
