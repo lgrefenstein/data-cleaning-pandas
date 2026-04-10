@@ -9,7 +9,7 @@ The goal is to transform messy data into a structured dataset and uncover patter
 ⸻
 
 Team
-	• Edson Antonio
+	• Edson Antonio Cruz
     • Jorge Barrios Hurtado
     • Ludmilla Grefenstein
 	
@@ -44,6 +44,11 @@ Repository Structure
 	•	analysis_shark_attacks.ipynb – main analysis notebook including EDA and visualizations
 	•	shark_attacks.csv – dataset used for analysis
 	•	README.md – project documentation
+
+Presentation
+	•https://canva.link/jl6rqyuz6m7n3gv
+	
+	
 
 ⸻
 
